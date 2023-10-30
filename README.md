@@ -23,5 +23,5 @@ I'm Amisha Arunjay Kumar, a passionate developer dedicated to creating innovativ
 - **GitHub**: [Amishak29](https://github.com/Amishak29)
 - **Email**: amisha.kr29@gmail.com
 
-Thank you for checking out my Project
+Thank you for checking out my Project!
 
