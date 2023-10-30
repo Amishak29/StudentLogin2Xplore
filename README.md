@@ -17,8 +17,8 @@ This project is implemented as a web form using HTML, CSS, and JavaScript. It co
 
 I'm Amisha Arunjay Kumar, a passionate developer dedicated to creating innovative web applications. If you have any feedback, suggestions, or collaboration opportunities, feel free to reach out.
 
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/amisha-arunjay-kumar-028550204/))
-- **GitHub**: [Your GitHub Profile]([https://github.com/your-profile](https://github.com/Amishak29))
+- **LinkedIn**: [Amisha Arunjay Kumar](https://www.linkedin.com/in/amisha-arunjay-kumar-028550204/)
+- **GitHub**: [Amishak29](https://github.com/Amishak29)
 - **Email**: amisha.kr29@gmail.com
 
 Thank you for checking out my Project
