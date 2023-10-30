@@ -8,10 +8,12 @@ This project is implemented as a web form using HTML, CSS, and JavaScript. It co
 
 ## Screenshots
 
-![Student Enrollment Form]([screenshot.png]([https://drive.google.com/file/d/1NqszZLDuvnR5Q4XijPyYXc4SOY6mbrsY/view?usp=sharing](https://drive.google.com/file/d/1NqszZLDuvnR5Q4XijPyYXc4SOY6mbrsY/view?usp=sharing)))
-![Student Enrollment Form]([screenshot.png]([https://drive.google.com/file/d/1NqszZLDuvnR5Q4XijPyYXc4SOY6mbrsY/view?usp=sharing](https://drive.google.com/file/d/1MY8lYKQaw7RJ0MBjRCHCTQM9cekyEMRQ/view?usp=sharing)))
-![Student Enrollment Form]([screenshot.png]([https://drive.google.com/file/d/1NqszZLDuvnR5Q4XijPyYXc4SOY6mbrsY/view?usp=sharing](https://drive.google.com/file/d/1ukiOlbipOS0ftIEmkNcrSPhTqtHKgt4o/view?usp=sharing)))
-![Student Enrollment Form]([screenshot.png]([https://drive.google.com/file/d/1NqszZLDuvnR5Q4XijPyYXc4SOY6mbrsY/view?usp=sharing](https://drive.google.com/file/d/1QLED7kiSdH5rtxbzRprP7zizFVGx71dY/view?usp=sharing)))
+![Screenshot (2199)](https://github.com/Amishak29/StudentLogin2Xplore/assets/78794164/120323d7-e071-4eb3-a3c6-b68f4d692623)
+![Screenshot (2200)](https://github.com/Amishak29/StudentLogin2Xplore/assets/78794164/a3043605-2b42-4b8c-bf04-a96a9a9bfe9f)
+![Screenshot (2201)](https://github.com/Amishak29/StudentLogin2Xplore/assets/78794164/d494e02a-2022-41f8-b08d-6006f4b5070d)
+![Screenshot (2202)](https://github.com/Amishak29/StudentLogin2Xplore/assets/78794164/2099eea8-665d-4e4f-ac28-3519d36e94fd)
+
+
 
 ## About Me
 
